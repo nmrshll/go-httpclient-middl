@@ -3,8 +3,8 @@ package middl
 import (
 	"net/http"
 
+	"github.com/nmrshll/go-httpclient-middl/middleware"
 	"github.com/palantir/stacktrace"
-	"github.com/teamwork/synthesis/utility/httpClient/middleware"
 )
 
 // Client is a wrapper around http.Client that you can add middleware to

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/teamwork/synthesis/utility/httpClient/middleware"
+	"github.com/nmrshll/go-httpclient-middl/middleware"
 )
 
 func New() middleware.MiddlewareFunc {

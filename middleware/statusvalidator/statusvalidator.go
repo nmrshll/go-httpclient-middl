@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/nmrshll/go-httpclient-middl/middleware"
 	"github.com/palantir/stacktrace"
-	"github.com/teamwork/synthesis/utility/httpClient/middleware"
 )
 
 // formatRequest generates ascii representation of a request
