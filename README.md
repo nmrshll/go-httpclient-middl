@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/nmrshll/go-httpclient-middl.svg?branch=master)](https://travis-ci.com/nmrshll/go-httpclient-middl)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nmrshll/go-httpclient-middl)](https://goreportcard.com/report/github.com/nmrshll/go-httpclient-middl)
+
 # go-httpclient-middl
 Add middleware to your HTTP clients in Go
 
