@@ -10,7 +10,7 @@ If you need an HTTP client that automatically logs requests, tracks metrics, joi
 ## How ?
 Download the library using `go get -u github.com/nmrshll/go-httpclient-middl`
 
-Then use it this way:
+Then use it this way:  
 [embedmd]:# (.docs/examples/quickstart.go /func main/ $)
 ```go
 func main() {
